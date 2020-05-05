@@ -43,7 +43,7 @@ void bubble_sort(int array[], int number)
 			compareMax-=1;
 			return bubble_sort(array, 0);
 		}
-		else if
+		else
 		{
 			return 0;
 		}
